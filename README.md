@@ -3,9 +3,9 @@
 - DevOps is a framework for organing IT teams.
 - In DevOps, culture and tools are important.
 - DevOps allows better collaboration between dev and operation teams.
--Culture in this case is defined as the way members of organization interacts.
--In Etsy, new engineers are provided with a laptop which includes a virtual machine, standard tools, and a GitHub account.
-- Etsy is a blameless environment.
+- Culture in this case is defined as the way members of organization interacts.
+- In Etsy, new engineers are provided with a laptop which includes a virtual machine, standard tools, and a GitHub account.
+- Etsy is a blameless environment where a blame is not place on developer.
 - On Facebook, developers work independently doing small changes;
 - usually, bugs fixed get released twice, and larger changes are released weekly.
 - There was an old way of culture where teams would work in “slips”.
@@ -13,9 +13,9 @@
 - Later, DevOps become a spare responsibility where the dev and ops teams work better together
 - There are four pilers of DevOps, Collaboration, affinity, tools, and scaling.
 - Collaboration is the process of building toward a goal with team.
-- Affinity forus building relationships within those teams.
+- Affinity focus building relationships within those teams.
 - Tools
-- scading
+- Scaling focus on how the IT environment can change over time.
 - Pay as you go is a price model where the price depends on cloud usage.
 - This model allows for easy adaptation to changing businesses and changing needs.
 - AWS also has Save when you reserve price model where cost is upfront.
@@ -38,12 +38,16 @@
 - These accounts can be group into OU, and these can given policies to manage access.
 ## Quotes
 - “Its on-premises data center was becoming too expensive and inefficient to support its global business operations, so it turned to AWS to move most of its enterprise applications and operations to the cloud. The move, which reduced its server footprint by more than 90 percent, is expected to save Delaware North at least $3.5 million in IT acquisitions and maintenance over five years.”Delare North data center
+- “GE Oil & Gas is migrating 500 applications to the cloud by the end of 2016 as part of a major digital transformation, helping it attain a 52 percent reduction in TCO. GE Oil & Gas is a business unit of global conglomerate General Electric, with energy-related operations around the world”.
 ## Facts I didn’t know
 - Rainfall is a framework that works in phases
 - With amazon EC2, you can save up 75% on demand capacity.
 - AWS prices are exclusive of applicable taxes and duties, including VAT and sales tax.
 - Data centers can thought as apartments holding many tenets, and these tenets can share data to each other.
 - I didn’t know devops as a folk model
-.there is a AWS Pricing Calculator
+- there is a AWS Pricing Calculator
 - The insides of data center is on average 95 f.
-- a swa
+- In Google data center, cooling systems have been change five time
+- Google uses a air and water cooling system where air cooling units cool down  servers racks, warm air go up into copper pipes with cold water, 
+- the water become ware and flows into a cooling plant outside, 
+- the cold back flow into the servers, repeating the process. 
